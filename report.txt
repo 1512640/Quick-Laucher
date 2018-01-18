@@ -1,0 +1,19 @@
+﻿MSSV: 1512640
+Họ và tên: Truong Quang Tuấn
+Mail: 1512640@student.hcmus.edu.vn
+Link youtube:https://www.youtube.com/watch?v=2VbAdq_2ymA
+
+QUICK LAUNCH
+
+Basic main success: 
+1. User launches the app. An icon  will be added to notification area 
+	- User can right click on it to see menu: Scan to build database, View statitistics, Exit.
+	- Exit menu, of course, will exit the app.
+	- Scan to build database: will scan all exe files in Program Files folder and build a dictionary. 
+		Key: “notepad++”, value: “C:\Program Files\Notepad\notepad++”
+		Key: “devenv” , value: “C:\Program Files\Visual Studio\devenv.exe”
+		User can add folder for scan or edit the list (delete out unnecessary exe files) 
+	- View statistics: Display chart based on usage frequency of apps. 
+2. User presses the shortcut key (like Windows + Space), a dialog will appear. Everytime user  types a key, a list of available apps will display. 
+	- User can select using arrow keys from the list. 
+	- User press enter and the selected app will start. 
